@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jerry Can
+* source:	https://sketchfab.com/3d-models/jerry-can-abf013f1ec304f93a6c468140088bc75
+* author:	willgt (https://sketchfab.com/willgt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jerry Can" (https://sketchfab.com/3d-models/jerry-can-abf013f1ec304f93a6c468140088bc75) by willgt (https://sketchfab.com/willgt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
